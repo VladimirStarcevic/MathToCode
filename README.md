@@ -16,8 +16,6 @@ It's a hands-on approach to deepen my understanding of both mathematics and soft
 ## 🛠️ Tech Stack
 
 *   **Language:** Java
-*   **Build Tool:** Maven / Gradle
-*   **Testing:** JUnit 5
 
 ## 🧮 Implemented Concepts
 
